@@ -1,6 +1,6 @@
 # There are two variables, a and b from input
-a = input()
-b = input()
+a = input("first input")
+b = input("second input")
 # 🚨 Don't change the code above ☝️
 ####################################
 # Write your code below this line 👇
